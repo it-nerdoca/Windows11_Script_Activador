@@ -1,6 +1,6 @@
 
 @echo off
-title Windows 11 ALL version activator BY Tech Tricks XYZ&cls&echo ************************************ &echo Tech Tricks XYZ &echo.&echo ************************************ &echo Windows 11 activation...
+title Windows 11 ALL version activator BY Tech Tricks XYZ&cls&echo ************************************ &echo Nerdoca Suporte &echo.&echo ************************************ &echo Windows 11 activation...
 cscript //nologo c:\windows\system32\slmgr.vbs /ipk TX9XD-98N7V-6WMQ6-BX7FG-H8Q99 >nul
 cscript //nologo c:\windows\system32\slmgr.vbs /ipk 3KHY7-WNT83-DGQKR-F7HPR-844BM >nul
 cscript //nologo c:\windows\system32\slmgr.vbs /ipk 7HNRX-D7KGG-3K4RQ-4WPJ4-YTDFH >nul
@@ -24,5 +24,5 @@ if %i%==5 set KMS_Sev=kms.chinancce.com
 if %i%==6 set KMS_Sev=kms.shuax.com
 if %i%==7 exit
 cscript //nologo c:\windows\system32\slmgr.vbs /skms %KMS_Sev% >nul
-cscript //nologo c:\windows\system32\slmgr.vbs /ato | find /i "successfully" && (echo.&  ************************************ & echo. & choice /n /c YN /m "Do you want to restart your PC now [Y,N]?" & if errorlevel 2 exit) || (echo The connection to the server failed! Trying to connect to another one... & echo Please wait... & echo. & echo. & set /a i+=1 & goto server)
+cscript //nologo c:\windows\system32\slmgr.vbs /ato | find /i "sucesso" && (echo.&  ************************************ & echo. & choice /n /c YN /m "Deseja reiniciar o seu PC agora [Y,N]?" & if errorlevel 2 exit) || (echo A conexão com o servidor falhou! Tentando se conectar de outra maneira... & echo Por favor aguarde... & echo. & echo. & set /a i+=1 & goto server)
 shutdown.exe /r /t 00
